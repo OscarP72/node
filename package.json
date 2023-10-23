@@ -1,0 +1,16 @@
+{
+  "name": "lesson_1_wr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "write": "node write.js",
+    "read": "node read.js",
+    "convert": "node convertJsonToCsv.js",
+    "count": "node CountWords.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+ 
+}
