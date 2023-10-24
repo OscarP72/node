@@ -15,6 +15,6 @@ const avengers = [
   },
 ];
 const avengersJson = JSON.stringify(avengers);
-fs.writeFile("avengers.json", avengersJson, () =>{
-    console.log ("avengers.json created!");
+fs.writeFile("avengers.json", avengersJson, () => {
+  console.log("avengers.json created!");
 });
